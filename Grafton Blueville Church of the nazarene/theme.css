@@ -1,0 +1,35 @@
+#header{
+    text-align: center;
+    background-color: rgba(18, 72, 221, 0.829);
+    color: white;
+}
+
+#container{
+    background-color: rgb(223, 220, 179);
+    width: 800px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    list-style: none;
+    line-height: 35px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+hr{
+    color: blue;
+}
+#contact{
+
+        margin: auto;
+        width: 50%;
+        border: 3px solid blue;
+        padding: 0px;
+}
+#live{
+    text-align: center;
+    background-color: black;	
+}
